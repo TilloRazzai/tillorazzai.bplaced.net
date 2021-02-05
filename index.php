@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Identity by HTML5 UP</title>
+		<title>M152 Webauftritt</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -20,9 +20,9 @@
 				<!-- Main -->
 					<section id="main">
 						<header>
-							<span class="avatar"><img src="images/avatar.jpg" alt="" /></span>
-							<h1>Jane Doe</h1>
-							<p>Senior Psychonautics Engineer</p>
+							<span class="avatar"><img src="images/TwitchLogo.png" alt="" /></span>
+							<h1>Tillo Razzai</h1>
+							<p>Apprentice Application Engineer</p>
 						</header>
 						<!--
 						<hr />
@@ -73,7 +73,7 @@
 				<!-- Footer -->
 					<footer id="footer">
 						<ul class="copyright">
-							<li>&copy; Jane Doe</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							<li>&copy; Tillo Razzai</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 						</ul>
 					</footer>
 
