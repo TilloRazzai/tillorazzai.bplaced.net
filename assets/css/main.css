@@ -1053,3 +1053,10 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
+
+	.nav-link{
+		z-index: 99999;
+		position: relative;
+		top: 20px;
+		left: 20px;
+	}

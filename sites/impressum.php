@@ -9,21 +9,21 @@
 		<title>M152 Webauftritt</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="../assets/css/noscript.css" /></noscript>
 		<link rel="stylesheet" type="text/css" href="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.css"/><script src="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.js" defer></script><script>window.addEventListener("load", function(){window.wpcc.init({"border":"thin","corners":"small","colors":{"popup":{"background":"#f6f6f6","text":"#000000","border":"#555555"},"button":{"background":"#555555","text":"#ffffff"}},"position":"bottom"})});</script>
 	</head>
 	<body class="is-preload">
 
 		<div id="nav">
 			<div class="nav-button">
-				<a href="sites/impressum.php" class="nav-link">Impressum</a>
+				<a href="../index.php" class="nav-link">Home</a>
 			</div>
-			<div class="nav-button">
-				<a href="sites/dsgvo.php" class="nav-link">DSGVO</a>
+            <div class="nav-button">
+				<a href="../sites/dsgvo.php" class="nav-link">DSGVO</a>
 			</div>
-			<div class="nav-button">
-				<a href="sites/urheberrecht.php" class="nav-link">Urheberrecht Fragen/ Antworten</a>
+            <div class="nav-button">
+				<a href="../sites/urheberrecht.php" class="nav-link">Urheberrecht Fragen/ Antworten</a>
 			</div>
 		</div>
 		<!-- Wrapper -->
@@ -32,10 +32,12 @@
 				<!-- Main -->
 					<section id="main">
 						<header>
-							<h1>Home</h1>
-							<span class="avatar"><img src="images/TwitchLogo.png" alt="" /></span>
-							<h1>Tillo Razzai</h1>
-							<p>Apprentice Application Engineer</p><br>
+							<h1>Impressum</h1>
+                            <span class="avatar"></span>
+							<h2>Tillo Razzai</h2>
+							<p>Aufdorfstrasse 91d </p><br>
+							<p>8708 Männedorf </p><br>
+							<p>tillo@razzai.ch</p>
 						</header>
 						<!--
 						<hr />

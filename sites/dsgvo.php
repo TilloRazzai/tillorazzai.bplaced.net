@@ -9,21 +9,21 @@
 		<title>M152 Webauftritt</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="../assets/css/noscript.css" /></noscript>
 		<link rel="stylesheet" type="text/css" href="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.css"/><script src="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.js" defer></script><script>window.addEventListener("load", function(){window.wpcc.init({"border":"thin","corners":"small","colors":{"popup":{"background":"#f6f6f6","text":"#000000","border":"#555555"},"button":{"background":"#555555","text":"#ffffff"}},"position":"bottom"})});</script>
 	</head>
 	<body class="is-preload">
 
 		<div id="nav">
 			<div class="nav-button">
-				<a href="sites/impressum.php" class="nav-link">Impressum</a>
+				<a href="../index.php" class="nav-link">Home</a>
+			</div>
+            <div class="nav-button">
+				<a href="../sites/impressum.php" class="nav-link">Impressum</a>
 			</div>
 			<div class="nav-button">
-				<a href="sites/dsgvo.php" class="nav-link">DSGVO</a>
-			</div>
-			<div class="nav-button">
-				<a href="sites/urheberrecht.php" class="nav-link">Urheberrecht Fragen/ Antworten</a>
+				<a href="../sites/urheberrecht.php" class="nav-link">Urheberrecht Fragen/ Antworten</a>
 			</div>
 		</div>
 		<!-- Wrapper -->
@@ -32,10 +32,9 @@
 				<!-- Main -->
 					<section id="main">
 						<header>
-							<h1>Home</h1>
-							<span class="avatar"><img src="images/TwitchLogo.png" alt="" /></span>
-							<h1>Tillo Razzai</h1>
-							<p>Apprentice Application Engineer</p><br>
+							<h1>DSGVO</h1>
+                            <span class="avatar"></span>
+							<p>Die Datenschutz-Grundverordnung ist eine Verordnung der Europäischen Union, mit der die Regeln zur Verarbeitung personenbezogener Daten durch die meisten Datenverarbeiter, sowohl private wie öffentliche, EU-weit vereinheitlicht werden. Dadurch soll einerseits der Schutz personenbezogener Daten innerhalb der Europäischen Union sichergestellt, und auch andererseits der freie Datenverkehr innerhalb des Europäischen Marktes gewährleistet werden. Die DSGVO bildet seit dem 25. Mai 2018 einen teil des Datenschutzrahmen in der Europäischen Union. </p>
 						</header>
 						<!--
 						<hr />
