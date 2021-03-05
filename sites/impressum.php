@@ -37,7 +37,19 @@
 							<h2>Tillo Razzai</h2>
 							<p>Aufdorfstrasse 91d </p><br>
 							<p>8708 Männedorf </p><br>
-							<p>tillo@razzai.ch</p>
+							<p>tillo@razzai.ch</p><br>
+							<span class="avatar"></span>
+							<h2>Copyright im Internet</h2>
+							<p>Der Autor oder Ersteller, kann definieren wo man das Produkt benutzen darf. Er kann auch festlegen, dass es nicht publiziert werden darf, kommerziell oder nicht spielt da keine rolle.</p><br>
+							<span class="avatar"></span>
+							<h2>public domain</h2>
+							<p>Bei public domain darf man das Produkt ohne Einschränkungen benutzten wie man es will.</p><br>
+							<span class="avatar"></span>
+							<h2>fair use</h2>
+							<p>Man darf das Produkt nur für den privaten Gebrauch benutzten.</p><br>
+							<span class="avatar"></span>
+							<h2>Copyright dieses Webauftritts</h2>
+							<p>Das Copyright dieses Webauftritts liegt bei Tillo Razzai. Der Inhalt dieser Website, darf nicht öffentlich weiterverwendet werden.</p><br>
 						</header>
 						<!--
 						<hr />
