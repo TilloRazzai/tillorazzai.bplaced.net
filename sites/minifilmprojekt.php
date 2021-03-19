@@ -16,26 +16,26 @@
 	<body class="is-preload">
 
 		<div id="nav">
-			<div class="nav-button">
+        <div class="nav-button">
 				<a href="../index.php" class="nav-link">Home</a>
 			</div>
 			<div class="nav-button">
 				<a href="../sites/impressum.php" class="nav-link">Impressum</a>
 			</div>
-			<div class="nav-button">
+            <div class="nav-button">
 				<a href="../sites/styleguide.php" class="nav-link">Styleguide</a>
 			</div>
 			<div class="nav-button">
 				<a href="../sites/webseitenkonzept.php" class="nav-link">Webseitenkonzept</a>
 			</div>
-			<div class="nav-button">
+            <div class="nav-button">
 				<a href="../sites/galerie.php" class="nav-link">Galerie</a>
+			</div>
+			<div class="nav-button">
+				<a href="../sites/urheberrecht.php" class="nav-link">Urheberrecht Fragen/ Antworten</a>
 			</div>
             <div class="nav-button">
 				<a href="../sites/dsgvo.php" class="nav-link">DSGVO</a>
-			</div>
-			<div class="nav-button">
-				<a href="../sites/minifilmprojekt.php" class="nav-link">Minifilmprojekt</a>
 			</div>
             <div class="nav-button">
 				<a href="../sites/css-animation.php" class="nav-link">CSS-Animationen</a>
@@ -56,28 +56,7 @@
 				<!-- Main -->
 					<section id="main">
 						<header>
-							<h1>Urheberrecht Fragen/ Antworten</h1>
-                            <span class="avatar"></span>
-							<p>Von welchen 3 Gruppen von Co-Autorschaft lässt sich unterscheiden?</p><br>
-							<p>Bearbeitungen/ Kompilationen und Anthologien/ Gemeinschaftswerke</p><br>
-							<p>Was ist meistens der einzige Weg zum Das Urheberrecht zu übertragen?</p><br>
-							<p>Durch die Erbschaft. Also nach dem Tod durch Testament z.B.</p><br>
-							<p>Wie lange wird bis nach dem Tod das Urheberrecht mindestens aufrechterhalten nach der Berner Übereinkunft?</p><br>
-							<p>Mindestens 50 Jahre.</p><br>
-							<p>Wann trat das Urheberrechtsgesetz in Kraft?</p><br>
-							<p>1. Juli 1993 </p><br>
-							<p>Was wollen sie mit ihren Innovationen und Kreationen nicht verletzten?</p><br>
-							<p>Das Geistige Eigentum von Dritten.</p><br>
-							<p>Was ist ein Patent?</p><br>
-							<p>Ein Patent ist ein Schutzrecht für eine technische Erfindung.</p><br>
-							<p>Was muss die Erfindung erfüllen für ein gültiges Patent?</p><br>
-							<p>Zum Zeitpunkt der Anmeldung muss die Erfindung neu und erfinderisch sein.</p><br>
-							<p>Was beweist ein Patent bei einem Unternehmen?</p><br>
-							<p>Die Innovationskraft.</p><br>
-							<p>Welche Angaben sollten im Impressum gemacht werden?</p><br>
-							<p>Vorname/Name bzw. vollständige Firma bei Unternehmen, Postadresse, E-Mail-Adresse, Optional: Telefonnummer sowie Faxnummer</p><br>
-							<p>Wie soll das Einverständnis festgehalten werden, wenn eine natürliche Person auf einem Bild erscheint?</p><br>
-							<p>Stets schriftlich</p>
+							<h1>Minifilmprojekt</h1>
 						</header>
 						<!--
 						<hr />

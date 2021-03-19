@@ -19,12 +19,37 @@
 			<div class="nav-button">
 				<a href="../index.php" class="nav-link">Home</a>
 			</div>
+			<div class="nav-button">
+				<a href="../sites/styleguide.php" class="nav-link">Styleguide</a>
+			</div>
+			<div class="nav-button">
+				<a href="../sites/webseitenkonzept.php" class="nav-link">Webseitenkonzept</a>
+			</div>
+			<div class="nav-button">
+				<a href="../sites/galerie.php" class="nav-link">Galerie</a>
+			</div>
+			<div class="nav-button">
+				<a href="../sites/urheberrecht.php" class="nav-link">Urheberrecht Fragen/ Antworten</a>
+			</div>
             <div class="nav-button">
 				<a href="../sites/dsgvo.php" class="nav-link">DSGVO</a>
 			</div>
-            <div class="nav-button">
-				<a href="../sites/urheberrecht.php" class="nav-link">Urheberrecht Fragen/ Antworten</a>
+			<div class="nav-button">
+				<a href="../sites/minifilmprojekt.php" class="nav-link">Minifilmprojekt</a>
 			</div>
+            <div class="nav-button">
+				<a href="../sites/css-animation.php" class="nav-link">CSS-Animationen</a>
+			</div>
+			<div class="nav-button">
+				<a href="../sites/multi-gifs.php" class="nav-link">Multi-Gifs</a>
+			</div>
+			<div class="nav-button">
+				<a href="../sites/bild-formate.php" class="nav-link">Bild-Formate</a>
+			</div>
+			<div class="nav-button">
+				<a href="../sites/video-audioFormate.php" class="nav-link">Video/ Audio Formate</a>
+			</div>
+
 		</div>
 		<!-- Wrapper -->
 			<div id="wrapper">
