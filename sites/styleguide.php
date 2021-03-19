@@ -57,7 +57,28 @@
 					<section id="main">
 						<header>
 							<h1>Styleguide</h1>
+                            <span class="avatar"></span>
 						</header>
+
+                        <h2>Schriftart und -grösse</h2>
+                        <p>Die Schriftart ist "Source Sans Pro", Helvetica, sans-serif. Die Grösse für h1 ist 1.85em, für h2 ist 1.25em und p ist normale grösse.</p>
+                        <span class="avatar"></span>
+                        <h2>Farben-Set</h2>
+                        <p>Die Gebrauchte farbe für die Schrift, den horizontalen Strich und die Icons is #414f57. Die Farbe der Icons und Buttons nach dem Hovern ist #ff7496. Die Schriftfarbe im Footer ist rgba(255, 255, 255, 0.75). Für die Buttons im Footer ist die Schriftfarbe rgba(255, 255, 255, 0.75) und die Hintergrund Farbe rgb(65, 65, 65). Für den Hinter grund wird die Farbe rgba(255, 165, 150, 0.5) und rgba(0, 228, 255, 0.35) gebraucht.</p>
+                        <span class="avatar"></span>
+                        <h2>Logo</h2>
+                        <p>Das Logo ist</p>
+                        <img src="../images/TwitchLogo.png" alt="" />
+                        <span class="avatar"></span>
+                        <h2>Icons/ Buttons</h2>
+                        <p>Icons und Buttons sehen wie folgt aus:</p>
+                        <a href="#" class="button">Get Started</a>
+                        <ul class="icons">
+								<li><a href="#" class="icon brands fa-instagram">Instagram</a></li>
+							</ul>
+                        <span class="avatar"></span>
+                        <h2>Header und Footer</h2>
+                        <p>Der Header beinhaltet ein h1 titel und darunter ein horizontaler Strich. Der Footer beinhaltet &copy; Tillo Razzai Design: HTML5 UP als p.</p>
 						<!--
 						<hr />
 						<h2>Extra Stuff!</h2>
@@ -99,7 +120,7 @@
 							<ul class="icons">
 								<li><a href="#" class="icon brands fa-twitter">Twitter</a></li>
 								<li><a href="#" class="icon brands fa-instagram">Instagram</a></li>
-								<li><a href="#" class="icon brands fa-facebook-f">Facebook</a></li>
+								<li><a href="#" class="icon brands fa-github">Github</a></li>
 							</ul>
 						</footer>
 					</section>
