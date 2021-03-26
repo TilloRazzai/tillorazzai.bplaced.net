@@ -38,7 +38,7 @@
 				<a href="../sites/minifilmprojekt.php" class="nav-link">Minifilmprojekt</a>
 			</div>
             <div class="nav-button">
-				<a href="../sites/css-animation.php" class="nav-link">CSS-Animationen</a>
+				<a href="../sites/css-animations.php" class="nav-link">CSS-Animationen</a>
 			</div>
 			<div class="nav-button">
 				<a href="../sites/multi-gifs.php" class="nav-link">Multi-Gifs</a>
