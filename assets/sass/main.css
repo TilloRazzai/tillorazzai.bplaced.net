@@ -1,0 +1,16 @@
+#wrapper .element1 {
+  transition: all 250ms ease;
+}
+#wrapper .element1.effect1:hover {
+  box-shadow: inset 0 0 0 0.5rem #808080;
+}
+#wrapper .element2 {
+  background-color: #808080;
+  color: #000000;
+  transition: all 250ms ease;
+}
+#wrapper .element2.effect2:hover {
+  border-radius: 2rem;
+}
+
+/*# sourceMappingURL=main.css.map */
