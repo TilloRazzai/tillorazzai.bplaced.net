@@ -10,6 +10,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../assets/css/main.css" />
+		<link rel="stylesheet" href="../assets/sass/main.css" />
 		<noscript><link rel="stylesheet" href="../assets/css/noscript.css" /></noscript>
 		<link rel="stylesheet" type="text/css" href="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.css"/><script src="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.js" defer></script><script>window.addEventListener("load", function(){window.wpcc.init({"border":"thin","corners":"small","colors":{"popup":{"background":"#f6f6f6","text":"#000000","border":"#555555"},"button":{"background":"#555555","text":"#ffffff"}},"position":"bottom"})});</script>
 	</head>
@@ -58,6 +59,16 @@
 						<header>
 							<h1>CSS-Animationen</h1>
 						</header>
+						<p>Die volgenden zwei hover Animationen wurden mit sass implementiert.</p>
+						<div class="element1 effect1">
+							<h2>Element1</h2>
+						</div>
+						<div class="element2 effect2">
+							<h2>Element2</h2>
+						</div>
+
+						<span class="avatar"></span>
+
 						<!--
 						<hr />
 						<h2>Extra Stuff!</h2>
