@@ -38,7 +38,7 @@
 				<a href="../sites/dsgvo.php" class="nav-link">DSGVO</a>
 			</div>
             <div class="nav-button">
-				<a href="../sites/css-animation.php" class="nav-link">CSS-Animationen</a>
+				<a href="../sites/css-animations.php" class="nav-link">CSS-Animationen</a>
 			</div>
 			<div class="nav-button">
 				<a href="../sites/multi-gifs.php" class="nav-link">Multi-Gifs</a>
