@@ -12,6 +12,8 @@
 		<link rel="stylesheet" href="../assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="../assets/css/noscript.css" /></noscript>
 		<link rel="stylesheet" type="text/css" href="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.css"/><script src="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.js" defer></script><script>window.addEventListener("load", function(){window.wpcc.init({"border":"thin","corners":"small","colors":{"popup":{"background":"#f6f6f6","text":"#000000","border":"#555555"},"button":{"background":"#555555","text":"#ffffff"}},"position":"bottom"})});</script>
+		<link href="http://vjs.zencdn.net/c/video-js.css" rel="stylesheet">
+    	<script src="http://vjs.zencdn.net/c/video.js"></script>
 	</head>
 	<body class="is-preload">
 
@@ -58,6 +60,40 @@
 						<header>
 							<h1>Video/ Audio Formate</h1>
 						</header>
+
+						<h2>MP4</h2>
+						<p>grösse -> 27.4 MB</p>
+                        <p>In MP4-Dateien können multimediale Inhalte in Form von mehreren Audio- und Videospuren sowie Untertitel, 2D- und 3D-Grafiken abgespeichert werden. Diese Inhalte lassen sich dann mit Hilfe geeigneter Software lokal abspielen oder über ein Netzwerk streamen.</p>
+                        
+						<video width="180px" height="300px" controls>
+  							<source src="../videos/morgenmodulfilm.mp4" type="video/mp4">
+							Your browser does not support the video tag.
+						</video> 
+
+						<span class="avatar"></span>
+                        <h2>FLV</h2>
+						<p>grösse -> 3.94 MB</p>
+                        <p>Im Internet und auf Smartphones sind diese Container zuhause. Er ist vor allem auf Internetnutzung und weniger auf den Hausgebrauch ausgelegt, da die Bild- und Tonqualität durch die Komprimierung oft leidet.</p>
+                        
+						<video id="video1" class="video-js vjs-default-skin" width="180px" height="300px"
+        					data-setup='{"controls" : true, "autoplay" : true, "preload" : "auto"}'>
+        					<source src="../videos/morgenmodulfilm.flv" type="video/x-flv">
+    					</video>
+
+						<span class="avatar"></span>
+                        <h2>AVI</h2>
+						<p>grösse -> 2.89 MB</p>
+                        <p>die fehlende Möglichkeit des direkten Streamings, verhindern dass das Format bei Profis eine Rolle spielt.</p>
+						<embed src="../videos/morgenmodulfilm.avi" type="video/avi" height="300px" width="180px">
+						</embeded>
+
+                        <span class="avatar"></span>
+                        <h2>MPEG</h2>
+						<p>grösse -> 3.65 MB</p>
+                        <p>MPEG ist der Standard für Video-CDs und wird von fast allen Software-Programmen und Geräten problemlos erkannt. Es unterstützt kein HD.</p>
+						<embed src="../videos/morgenmodulfilm.mpeg" autostart="false" height="300px" width="180px">
+						</embed>
+                        
 						<!--
 						<hr />
 						<h2>Extra Stuff!</h2>
