@@ -58,6 +58,55 @@
 						<header>
 							<h1>Bild-Formate</h1>
 						</header>
+
+						<h2>normales JPEG</h2>
+						<p>grösse garten -> 4.5 MB</p>
+						<p>grösse wand -> 3.23 MB</p>
+                        <p>Die Pros: Das JPEG-Bildformat wird von allen Betriebssystemen unterstützt. Es ist eines der am meisten verbreiteten Bildformate. Das Verhältnis von Bildqualität zu Dateigrösse ist gut.
+						Die Cons: JPEG unterstützt keine Transparenzen und keine Animationen. Zudem kann es Qualitätsverluste nach mehrfachem Speichern geben.</p>
+                        <img src="../images/gartennormal.jpg" alt="garten" width="180px" heigth="300px">
+						<img src="../images/wandnormal.jpg" alt="wand" width="180px" heigth="300px">
+
+						<span class="avatar"></span>
+                        <h2>JPEG mit geringer Auflösung</h2>
+						<p>grösse garten -> 4.5 MB</p>
+						<p>grösse wand -> 2.57 MB</p>
+                        <p>Die Pros: Das JPEG-Bildformat wird von allen Betriebssystemen unterstützt. Es ist eines der am meisten verbreiteten Bildformate. Das Verhältnis von Bildqualität zu Dateigrösse ist gut.
+						Die Cons: JPEG unterstützt keine Transparenzen und keine Animationen. Zudem kann es Qualitätsverluste nach mehrfachem Speichern geben.
+						Im vergleich zum anderen JPEG ist die grösse kleiner aber auch die Qualität.</p>
+                        
+						<img src="../images/garten.jpg" alt="garten" width="180px" heigth="300px">
+						<img src="../images/wand.jpg" alt="wand" width="180px" heigth="300px">
+
+						<span class="avatar"></span>
+                        <h2>BMP</h2>
+						<p>grösse garten -> 34.8 MB</p>
+						<p>grösse wand -> 34.8 MB</p>
+                        <p>Die Pros: Das Bitmap Format basiert auf Bildpunkten (Pixeln) und ist relativ einfach strukturiert. Erzeugt werden diese zum Beispiel von Scannern. Das Format ermöglicht eine schnelle Bearbeitung und eine hohe Kompression.
+						Die Cons: Nachteil von Bitmap ist, dass beim Skalieren der Bildgröße Qualitätsverluste möglich sind.
+						Die Grösse kommt davon, dass die bilder auf Bildpunkten basieren.</p>
+						<img src="../images/garten.bmp" alt="garten" width="180px" heigth="300px">
+						<img src="../images/wand.bmp" alt="wand" width="180px" heigth="300px">
+
+                        <span class="avatar"></span>
+                        <h2>GIF</h2>
+						<p>grösse garten -> 5.23 MB</p>
+						<p>grösse wand -> 3.14 MB</p>
+                        <p>Die Pros: Das GIF-Format hat eine sehr kleine Dateigrösse. Dabei unterstützt es auch noch Animationen.
+						Die Cons: Es gibt heute bessere und neuere Bildformate. Auch werden nur 256 Farben unterstützt.
+						Das Gif ist etwa gleich gross wie das JPEG da es die möglichkeit für Animationen bietet. jedoch unterstützt es nur eine geringe Palette an Farben.</p>
+						<img src="../images/garten.gif" alt="garten" width="180px" heigth="300px">
+						<img src="../images/wand.gif" alt="wand" width="180px" heigth="300px">
+
+						<span class="avatar"></span>
+                        <h2>PNG</h2>
+						<p>grösse garten -> 27.8 MB</p>
+						<p>grösse wand -> 13 MB</p>
+                        <p>Die Pros: Das PNG-Format unterstützt den Alpha-Kanal bei der Transparenz. Dieser ist neuer und moderner als der des GIF-Formats. Zudem verwirft das Bildformat, im Vergleich zu anderen Bildformate, beim erneuten Speichern keine Informationen.
+						Die Cons: Der grösste Nachteil steckt in der Dateigrösse. Diese ist im Vergleich zum JPEG-Format riesig. Zudem wird das Format nicht überall unterstützt.
+						Da es Transparenz bietet ist das PNG einiges grösser als ein JPEG.</p>
+						<img src="../images/garten.png" alt="garten" width="180px" heigth="300px">
+						<img src="../images/wand.png" alt="wand" width="180px" heigth="300px">
 						<!--
 						<hr />
 						<h2>Extra Stuff!</h2>
