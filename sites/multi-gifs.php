@@ -58,6 +58,10 @@
 						<header>
 							<h1>Multi-Gifs</h1>
 						</header>
+
+						
+                        
+						<img src="../images/real.gif" alt="garten" width="180px" heigth="300px">
 						<!--
 						<hr />
 						<h2>Extra Stuff!</h2>
