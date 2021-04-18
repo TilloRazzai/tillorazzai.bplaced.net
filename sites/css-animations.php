@@ -5,6 +5,23 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
+	<style>
+		#transformation:hover{
+			transform: rotate(30deg) !important;
+		}
+
+		#translation:hover{
+			transform: translate(50px,0px) !important;
+		}
+
+		#transition{
+			transition: font-size 3s !important;
+		}
+
+		#transition:hover{
+			font-size: 30px !important;
+		}
+	</style>
 	<head>
 		<title>M152 Webauftritt</title>
 		<meta charset="utf-8" />
@@ -68,6 +85,19 @@
 						</div>
 
 						<span class="avatar"></span>
+						<h2>Transformation css Effekt</h2>
+						<p>Auf das Event hover wurde die Schrift verschrägt und ist somit ein Transformationseffekt.</p>
+						<p id="transformation">test</p>
+
+						<span class="avatar"></span>
+						<h2>Translation css Effekt</h2>
+						<p>Auf das Event hover wurde die Schrift 50px nach rechts versetzt und ist somit ein Translationseffekt.</p>
+						<p id="translation">test</p>
+
+						<span class="avatar"></span>
+						<h2>Transition css Effekt</h2>
+						<p>Auf das Event hover wird nach einer Zeit die Schrift auf 30px vergrössert und ist somit ein Transitionseffekt.</p>
+						<p id="transition">test</p>
 
 						<!--
 						<hr />
