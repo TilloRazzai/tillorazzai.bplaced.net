@@ -90,6 +90,24 @@
                         <p>MPEG ist der Standard für Video-CDs und wird von fast allen Software-Programmen und Geräten problemlos erkannt. Es unterstützt kein HD.</p>
 						<embed src="../videos/morgenmodulfilm.mpeg" autostart="false" height="300px" width="180px">
 						</embed>
+
+						<span class="avatar"></span>
+                        <h2>MP3</h2>
+						<p>grösse -> 105 KB</p>
+                        <p>MP3 komprimiert das Audiofile und braucht somit weniger Speicher. Trotzdem bietet es einen guten Sound und wird somit in der Streamingwelt gebraucht.</p>
+						<audio src="../sounds/test.mp3" type="audio/mp3" controls></audio>
+
+						<span class="avatar"></span>
+                        <h2>WAV</h2>
+						<p>grösse -> 578 KB</p>
+                        <p>WAV hingegen komprimiert das Audiofile nicht und bietet somit besseren Sound. Die Festplatte muss da drunter Leiden.</p>
+						<audio src="../sounds/test.wav" type="audio/wav" controls></audio>
+
+						<span class="avatar"></span>
+                        <h2>OGG</h2>
+						<p>grösse -> 43.4 KB</p>
+                        <p>OGG genau wie MP3 komprimiert das Audiofile und braucht somit weniger Speicher. Trotzdem bietet es einen guten Sound und wird somit in der Streamingwelt gebraucht.</p>
+						<audio src="../sounds/test.ogg" type="audio/ogg" controls></audio>
                         
 						<!--
 						<hr />
