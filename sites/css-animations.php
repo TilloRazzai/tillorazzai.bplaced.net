@@ -55,9 +55,6 @@
             <div class="nav-button">
 				<a href="../sites/dsgvo.php" class="nav-link">DSGVO</a>
 			</div>
-            <div class="nav-button">
-				<a href="../sites/minifilmprojekt.php" class="nav-link">Minifilmprojekt</a>
-			</div>
 			<div class="nav-button">
 				<a href="../sites/multi-gifs.php" class="nav-link">Multi-Gifs</a>
 			</div>

@@ -34,9 +34,6 @@
 			<div class="nav-button">
 				<a href="../sites/urheberrecht.php" class="nav-link">Urheberrecht Fragen/ Antworten</a>
 			</div>
-			<div class="nav-button">
-				<a href="../sites/minifilmprojekt.php" class="nav-link">Minifilmprojekt</a>
-			</div>
             <div class="nav-button">
 				<a href="../sites/css-animations.php" class="nav-link">CSS-Animationen</a>
 			</div>
