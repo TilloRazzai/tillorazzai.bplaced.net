@@ -21,6 +21,25 @@
 		#transition:hover{
 			font-size: 30px !important;
 		}
+
+		#loading {
+			animation-name: changing;
+			animation-duration: 4s;
+			animation-direction: alternate;
+			animation-timing-function: linear;
+			animation-iteration-count: infinite;
+		}
+
+		@keyframes changing {
+			0% {
+				fill: darkgreen;
+				width: 20px;
+			}
+			100% {
+				fill: lime;
+				width: 200px;
+			}
+		}
 	</style>
 	<head>
 		<title>M152 Webauftritt</title>
@@ -96,6 +115,24 @@
 						<p>Auf das Event hover wird nach einer Zeit die Schrift auf 30px vergrössert und ist somit ein Transitionseffekt.</p>
 						<p id="transition">test</p>
 
+						<span class="avatar"></span>
+						<h2>SVG Ladebalken</h2>
+						<svg viewBox="0 0 300 100">
+						<rect id="loading" x="10" y="10" width="20" height="20" /> </svg>
+
+						<span class="avatar"></span>
+						<h2>Canvas</h2>
+						
+						<canvas id="myCanvas" width="200" height="100" style="border:1px solid #d3d3d3;">
+							Your browser does not support the HTML canvas tag.
+						</canvas>
+
+						<script>
+							var c = document.getElementById("myCanvas");
+							var ctx = c.getContext("2d");
+							ctx.font = "20px Arial";
+							ctx.fillText("Das ist ein Canvas",10,50);
+						</script>
 						<!--
 						<hr />
 						<h2>Extra Stuff!</h2>
