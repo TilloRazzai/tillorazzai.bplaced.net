@@ -54,7 +54,7 @@
 					<section id="main">
 						<header>
 							<h1>Home</h1>
-							<span class="avatar"><img src="images/TwitchLogo.png" alt="" /></span>
+							<span class="avatar"><img src="images/TwitchLogo.png" alt="" widht="200px" height="200px"/></span>
 							<h1>Tillo Razzai</h1>
 							<p>Apprentice Application Engineer</p><br>
 						</header>
